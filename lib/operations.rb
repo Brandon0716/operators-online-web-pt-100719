@@ -1,5 +1,5 @@
 def unsafe?(speed)
- if speed is greating than 60 is authenticate_or_request_with_http_basic
+ if speed is greating than 60 is true
  
 
 end
