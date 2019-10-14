@@ -1,5 +1,5 @@
 def unsafe?(speed)
-  puts speed ? 
+  puts speed ? > 60 : TRUE
   
 
 end
