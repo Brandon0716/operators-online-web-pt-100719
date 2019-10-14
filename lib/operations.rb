@@ -3,7 +3,6 @@ def unsafe?(speed)
  
    
  
-
 end
 
 
